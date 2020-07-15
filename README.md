@@ -1,6 +1,6 @@
 # Hi there, I'm Maxime 👋
 
-![Maxime Garcia, Bioinformatician developing pipelines + an owl as a logo](header.png)
+![Maxime Garcia, Bioinformatician developing pipelines + an owl as a logo](https://raw.githubusercontent.com/MaxUlysse/MaxUlysse/master/header.png)
 
 - I'm a bioinformatician, from Marseille, working in Stockholm
 - I'm interested in Reproducible Research (and obviously open-source), Cancer, Automation, Data Integration, Visualization and much more...
