@@ -15,7 +15,7 @@
    viewBox="0 0 423.33332 158.75"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="header.svg"
    inkscape:export-filename="header.png"
    inkscape:export-xdpi="96"
@@ -1083,7 +1083,7 @@
        x2="-189.7346"
        y1="298.42542"
        x1="-231.41191"
-       gradientTransform="matrix(0.72684832,0,0,0.72684832,246.50912,-61.943011)"
+       gradientTransform="matrix(0.72684832,0,0,0.72684832,536.73455,-28.844772)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient9296"
        xlink:href="#linearGradient5683-62"
@@ -1108,7 +1108,7 @@
          id="stop5691-5" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0.373,-0.24740319,0.21981816,0.33141113,142.77391,33.986986)"
+       gradientTransform="matrix(0.373,-0.24740319,0.21981816,0.33141113,432.99934,67.085225)"
        y2="201.29578"
        x2="-488.18668"
        y1="166.54121"
@@ -1151,7 +1151,7 @@
        xlink:href="#linearGradient9020"
        id="linearGradient12124"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.72684832,0,0,0.72684832,238.24073,-79.306641)"
+       gradientTransform="matrix(0.72684832,0,0,0.72684832,528.46616,-46.208402)"
        x1="-222.33456"
        y1="291.66556"
        x2="-189.7346"
@@ -1469,15 +1469,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="728.22337"
-     inkscape:cy="397.12836"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="542.4983"
+     inkscape:cy="326.76181"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -1489,7 +1489,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1505,117 +1505,150 @@
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.36691201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0" />
     <g
-       id="g1408"
-       transform="translate(-3.4395858)">
+       id="g335">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3000-8-3-2-8-5-1-4-36-2"
+         d="m 341.41083,158.38746 c 66.64168,38.47559 44.25305,100.93801 44.25305,100.93801 -19.05325,-71.1077 -44.25305,-41.54881 -44.25305,-100.93801 z"
+         style="fill:url(#linearGradient9296);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csccc"
+         inkscape:connector-curvature="0"
+         id="path8372"
+         d="m 303.4508,180.79145 c -24.90271,16.51735 -31.70034,46.31521 -15.18291,71.21788 16.51736,24.9027 50.09498,31.70033 74.99764,15.1829 18.93781,-12.59722 27.97552,-35.69321 22.61693,-57.79788 -26.46854,-11.09352 -55.0192,-46.40055 -82.43166,-28.6029 z"
+         style="fill:url(#linearGradient9298);fill-opacity:1;stroke:#000000;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         r="20.051533"
+         cy="221.39227"
+         cx="353.4986"
+         id="path4881"
+         style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.97123182;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4006"
+         cx="353.4986"
+         cy="221.39227"
+         r="15.29383" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3000-8-3-2-8-5-1-49-4"
+         d="m 314.55414,160.69673 c 47.49608,27.42188 92.11656,20.23024 71.10974,98.62874 -23.96306,-89.43136 -71.10974,-21.91692 -71.10974,-98.62874 z"
+         style="fill:url(#linearGradient12124);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-filename="/home/mgarcia/path6620-0.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         id="path4909"
+         d="m 286.41844,235.919 c 13.07802,-7.60439 26.93269,-2.06806 35.87665,-11.90552 -5.10497,-1.0921 -33.68571,-1.8278 -35.87665,11.90552 z"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         inkscape:transform-center-x="179.0682"
+         inkscape:transform-center-y="32.217293" />
+      <path
+         inkscape:transform-center-y="74.508053"
+         inkscape:transform-center-x="156.23189"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         d="m 294.09726,251.54069 c 10.13009,-10.19268 24.20351,-8.5191 29.99141,-19.74433 -4.95255,0.25304 -31.35754,6.60473 -29.99141,19.74433 z"
+         id="path4919"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-filename="/home/mgarcia/path6620-0.png" />
+      <path
+         inkscape:transform-center-y="-22.626149"
+         inkscape:transform-center-x="187.42349"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         d="m 283.61944,218.35106 c 15.07164,-4.08822 27.40689,5.13356 38.95311,-2.28574 -4.79835,-2.45281 -33.09942,-10.82229 -38.95311,2.28574 z"
+         id="path4923"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-filename="/home/mgarcia/path6620-0.png" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot308"
+       style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.35208131,0,0,0.35208131,-176.70598,75.560175)"><flowRegion
+         id="flowRegion310"
+         style="font-size:37.33333206px;text-align:center;text-anchor:middle;fill:#000000;"><rect
+           id="rect312"
+           width="1500.5638"
+           height="552.57349"
+           x="135.36044"
+           y="417.76645"
+           style="font-size:37.33333206px;text-align:center;text-anchor:middle;fill:#000000;" /></flowRegion><flowPara
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#000000;"
+         id="flowPara1282">bioinformatician developing pipelines</flowPara></flowRoot>    <g
+       id="g928"
+       transform="matrix(0.8791517,0,0,0.8791517,-16.374213,99.034627)"
+       style="fill:#000000">
       <g
-         transform="translate(293.66502,33.098239)"
-         id="g915">
-        <path
-           style="fill:url(#linearGradient9296);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 51.185401,125.28922 C 117.82708,163.76481 95.438453,226.22723 95.438453,226.22723 76.385204,155.11953 51.185401,184.67842 51.185401,125.28922 Z"
-           id="path3000-8-3-2-8-5-1-4-36-2"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccc" />
-        <path
-           style="fill:url(#linearGradient9298);fill-opacity:1;stroke:#000000;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none"
-           d="m 13.225369,147.69321 c -24.902708,16.51735 -31.700335,46.31521 -15.1829057,71.21788 16.5173577,24.9027 50.0949777,31.70033 74.9976397,15.1829 18.937809,-12.59722 27.975517,-35.69321 22.61693,-57.79788 -26.468546,-11.09352 -55.019207,-46.40055 -82.431664,-28.6029 z"
-           id="path8372"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="csccc" />
-        <circle
-           style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:2.64583325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="path4881"
-           cx="63.273155"
-           cy="188.29404"
-           r="20.051533" />
-        <circle
-           r="15.29383"
-           cy="188.29404"
-           cx="63.273155"
-           id="circle4006"
-           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.97123182;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <path
-           style="fill:url(#linearGradient12124);fill-opacity:1;stroke:#000000;stroke-width:3.96875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 24.328709,127.59849 C 71.82479,155.02037 116.44527,147.82873 95.438453,226.22723 71.475392,136.79587 24.328709,204.31031 24.328709,127.59849 Z"
-           id="path3000-8-3-2-8-5-1-49-4"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccc" />
-        <path
-           inkscape:transform-center-y="32.217293"
-           inkscape:transform-center-x="179.0682"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
-           d="m -3.8069874,202.82076 c 13.078018,-7.60439 26.9326914,-2.06806 35.8766504,-11.90552 -5.104977,-1.0921 -33.6857179,-1.8278 -35.8766504,11.90552 z"
-           id="path4909"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccc"
-           inkscape:export-filename="/home/mgarcia/path6620-0.png" />
-        <path
-           inkscape:export-filename="/home/mgarcia/path6620-0.png"
-           sodipodi:nodetypes="ccc"
-           inkscape:connector-curvature="0"
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           id="path4919"
-           d="M 3.8718294,218.44245 C 14.001918,208.24977 28.075344,209.92335 33.863236,198.69812 28.910691,198.95116 2.5056957,205.30285 3.8718294,218.44245 Z"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
-           inkscape:transform-center-x="156.23189"
-           inkscape:transform-center-y="74.508053" />
-        <path
-           inkscape:export-filename="/home/mgarcia/path6620-0.png"
-           sodipodi:nodetypes="ccc"
-           inkscape:connector-curvature="0"
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           id="path4923"
-           d="m -6.6059933,185.25282 c 15.0716481,-4.08822 27.4068903,5.13356 38.9531143,-2.28574 -4.798356,-2.45281 -33.09942242,-10.82229 -38.9531143,2.28574 z"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
-           inkscape:transform-center-x="187.42349"
-           inkscape:transform-center-y="-22.626149" />
-      </g>
+         transform="matrix(0.44611981,0,0,0.44611981,44.334855,81.689003)"
+         id="g603"
+         style="fill:#000000">
+        <flowRoot
+           transform="matrix(1.9231376,0,0,1.9231376,-514.12361,-525.99533)"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1021"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';fill:#000000"
+             id="flowRegion1023"><rect
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';fill:#000000"
+               y="267.25372"
+               x="274.76151"
+               height="100.98393"
+               width="294.69113"
+               id="rect1025" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';fill:#000000"
+             id="flowPara1027">Maxime Garcia</flowPara><flowPara
+             id="flowPara982"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';fill:#000000" /></flowRoot>      </g>
+    </g>
+    <g
+       style="fill:#ffffff"
+       transform="matrix(0.8791517,0,0,0.8791517,-16.374213,119.82334)"
+       id="g371">
       <g
-         transform="translate(11.785661,4.5418279)"
-         id="g1297">
+         style="fill:#ffffff"
+         id="g369"
+         transform="matrix(0.44611981,0,0,0.44611981,44.334855,81.689003)">
         <flowRoot
            xml:space="preserve"
-           id="flowRoot308"
-           style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.35208131,0,0,0.35208131,-185.05206,71.018347)"><flowRegion
-             id="flowRegion310"
-             style="font-size:37.33333206px;text-align:center;text-anchor:middle"><rect
-               id="rect312"
-               width="1500.5638"
-               height="552.57349"
-               x="135.36044"
-               y="417.76645"
-               style="font-size:37.33333206px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-             style="font-size:32px;text-align:center;text-anchor:middle"
-             id="flowPara1282">bioinformatician developing pipelines</flowPara></flowRoot>        <g
-           id="g928"
-           transform="matrix(0.8791517,0,0,0.8791517,-24.720288,94.492799)">
-          <g
-             transform="matrix(0.44611981,0,0,0.44611981,44.334855,81.689003)"
-             id="g603">
-            <flowRoot
-               transform="matrix(1.9231376,0,0,1.9231376,-514.12361,-525.99533)"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-               id="flowRoot1021"
-               xml:space="preserve"><flowRegion
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold'"
-                 id="flowRegion1023"><rect
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold'"
-                   y="267.25372"
-                   x="274.76151"
-                   height="100.98393"
-                   width="294.69113"
-                   id="rect1025" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold'"
-                 id="flowPara1027">Maxime Garcia</flowPara><flowPara
-                 id="flowPara982"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold'" /></flowRoot>          </g>
-        </g>
-      </g>
+           id="flowRoot367"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+           transform="matrix(1.9231376,0,0,1.9231376,-514.12361,-525.99533)"><flowRegion
+             id="flowRegion361"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';fill:#ffffff"><rect
+               id="rect359"
+               width="294.69113"
+               height="100.98393"
+               x="274.76151"
+               y="267.25372"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';fill:#ffffff" /></flowRegion><flowPara
+             id="flowPara363"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';fill:#ffffff">Maxime Garcia</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Bold';fill:#ffffff"
+             id="flowPara365" /></flowRoot>      </g>
     </g>
-  </g>
+    <flowRoot
+       transform="matrix(0.35208131,0,0,0.35208131,-176.70598,84.118807)"
+       style="font-style:normal;font-weight:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;"
+       id="flowRoot379"
+       xml:space="preserve"><flowRegion
+         style="font-size:37.33333206px;text-align:center;text-anchor:middle;fill:#ffffff;"
+         id="flowRegion375"><rect
+           style="font-size:37.33333206px;text-align:center;text-anchor:middle;fill:#ffffff;"
+           y="417.76645"
+           x="135.36044"
+           height="552.57349"
+           width="1500.5638"
+           id="rect373" /></flowRegion><flowPara
+         id="flowPara377"
+         style="font-size:32px;text-align:center;text-anchor:middle;fill:#ffffff;">bioinformatician developing pipelines</flowPara></flowRoot>  </g>
 </svg>
