@@ -4,7 +4,7 @@
 
 - I'm a bioinformatician, from Marseille, working in Stockholm
 - I'm interested in Reproducible Research (and obviously open-source), Cancer, Automation, Containers, Data Integration, Visualization and much more...
-- I enjoy doing pipeline with [Nextflow](https://nextflow.io/), that are reproducible using Conda, Docker, Singularity and can run anywhere, including AWS
+- I enjoy doing pipelines with [Nextflow](https://nextflow.io/), that are reproducible using Conda, Docker, Singularity... and can run anywhere, including AWS
 - I'm part of the core team that administrates the [@nf-core](https://github.com/nf-core/) community
 
 ## Find me around the web 🌎
