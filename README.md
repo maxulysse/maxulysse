@@ -1,4 +1,4 @@
-# Hi there, I'm Maxime U. Garcia 👋
+# Hi there 👋
 
 ![Maxime U. Garcia, Bioinformatician developing pipelines + an owl as a logo](https://raw.githubusercontent.com/maxulysse/maxulysse/main/header.png)
 
