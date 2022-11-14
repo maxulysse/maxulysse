@@ -2,7 +2,7 @@
 
 ![Maxime U. Garcia, Bioinformatician developing pipelines + an owl as a logo](https://raw.githubusercontent.com/maxulysse/maxulysse/main/header_light.png#gh-light-mode-only) ![Maxime U. Garcia, Bioinformatician developing pipelines + an owl as a logo](https://raw.githubusercontent.com/maxulysse/maxulysse/main/header_dark.png#gh-dark-mode-only)
 
-- I'm a bioinformatician, from Marseille :fr: , working in Stockholm :sweden:
+- I'm a bioinformatician, from Marseille :fr: , working in Stockholm :sweden: for @SeqeraLabs in :spain:
 - I'm interested in Reproducible Research (and obviously open-source), Cancer, Automation, Containers, Data Integration, Visualization and much more...
 - I enjoy doing pipelines with [Nextflow](https://nextflow.io/), that are reproducible using Conda, Docker, Singularity... and can run anywhere, including AWS
 - I'm part of the core team that administrates the [@nf-core](https://github.com/nf-core/) community
