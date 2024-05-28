@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there 🧑‍💻
 
 ![Maxime U. Garcia, Bioinformatician developing pipelines + an owl as a logo](https://raw.githubusercontent.com/maxulysse/maxulysse/main/header_light.png#gh-light-mode-only) ![Maxime U. Garcia, Bioinformatician developing pipelines + an owl as a logo](https://raw.githubusercontent.com/maxulysse/maxulysse/main/header_dark.png#gh-dark-mode-only)
 
@@ -7,16 +7,19 @@
 - I enjoy doing pipelines with [Nextflow](https://nextflow.io/), that are reproducible using Conda, Docker, Singularity... and can run anywhere, including AWS, GCP, Azure...
 - I'm part of the core team that administrates the [@nf-core](https://github.com/nf-core/) community
 
-## Find me around the web 🌎
+## :octocat: My Github stats 📊
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maxulysse&count_private=true&show_icons=true&hide_title=True">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxulysse&hide=html&layout=compact">
+
+</p>
+
+## 🔎 Find me around the web 🌎
 
 - I share the occasional blog post and my presentations on my own Jekyll [website](https://maxulysse.github.io/)
 - I sometimes share informations on [LinkedIn](https://www.linkedin.com/in/maxugarcia)
 - I keep track of my publications with [ORCID](https://orcid.org/0000-0003-2827-9261) and [Google Scholar](https://scholar.google.fr/citations?user=bzhsE6oAAAAJ)
 - I μblog, but mainly RT on [Twitter](https://twitter.com/gau/) or [Mastodon](https://scholar.social/@gau)
 - I share food and cats pictures on [Instagram](https://www.instagram.com/maxulysse/) with sometimes an occasional landscape
-
-<details>
-  <summary>Github Statistics</summary>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=maxulysse&show_icons=true)
-</details>
