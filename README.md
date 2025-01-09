@@ -21,6 +21,6 @@
 - I share the occasional blog post and my presentations on my own Jekyll [website](https://maxulysse.github.io/)
 - I sometimes share informations on [LinkedIn](https://www.linkedin.com/in/maxugarcia)
 - I keep track of my publications with [ORCID](https://orcid.org/0000-0003-2827-9261) and [Google Scholar](https://scholar.google.fr/citations?user=bzhsE6oAAAAJ)
-- I μblog, but mainly RT on [Twitter](https://twitter.com/gau/) or [Mastodon](https://scholar.social/@gau)
+- I μblog, but mainly RT on [BlueSky](https://bsky.app/profile/maxulysse.github.io), [Mastodon](https://scholar.social/@gau) or [Twitter/X](https://x.com/gau/).
 - I share food and cats pictures on [Instagram](https://www.instagram.com/maxulysse/) with sometimes an occasional landscape
 - If you find anything in my repo useful and want to say thanks, you can [Buy me a coffee](https://buymeacoffee.com/maxulysse)
