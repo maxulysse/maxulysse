@@ -1,6 +1,6 @@
 # 👋 Hi there 🧑‍💻
 
-- I'm a bioinformatician, from Marseille :fr: , working in Stockholm :sweden: for [@SeqeraLabs](https://github.com/SeqeraLabs) in :es:
+- I'm a bioinformatician, from Marseille :fr: , living in Stockholm :sweden:
 - I'm interested in Reproducible Research (and obviously open-source), Cancer, Automation, Containers, Data Integration, Visualization and much more...
 - I enjoy doing pipelines with [Nextflow](https://nextflow.io/), that are reproducible using Conda, Docker, Singularity... and can run anywhere, including AWS, GCP, Azure...
 - I'm part of the core team that administrates the [@nf-core](https://github.com/nf-core/) community
