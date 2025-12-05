@@ -9,8 +9,14 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxulysse&count_private=true&show_icons=true&hide_title=True">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxulysse&hide=html&layout=compact">
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/maxulysse?cardType=github&theme=github&preferLogin=true">
+    <img alt="My Awesome Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/maxulysse?cardType=github&theme=github&preferLogin=true">
+  </picture>
+</h1>
+
+[git.io/awesome-stats-card](https://git.io/awesome-stats-card)
 
 </p>
 
